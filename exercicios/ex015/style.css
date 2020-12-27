@@ -12,14 +12,10 @@ h1 {
   
 }
 
-.tit {
-  text-decoration: underline;
-}
-
 h2 {
   color: #8b0000;
 }
 
-.btn-pg2 {
-  text-align: right;
+p {
+  text-align: justify;
 }
