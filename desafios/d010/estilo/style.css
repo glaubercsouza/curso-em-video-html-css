@@ -1,3 +1,4 @@
+@charset "UTF-8";
 @font-face {
   font-family: 'idroid';
   src: url('fontes/idroid.otf');
@@ -6,6 +7,7 @@
 body {
 font-family: Arial, Helvetica, sans-serif;
 margin: 0;
+background-color: #C5EBD6;
 }
 
 header {
@@ -34,25 +36,4 @@ h2, h3 {
 nav {
   background-color: #063D13;
   font-weight: bold;
-}
-
-nav > ul {
-  list-style: none;
-  display: flex;
-  margin: 0 auto;
-}
-
-ul > li {
-  margin-right: 20px;
-}
-
-li > a {
-  color: white;
-  text-decoration: none;
-  transition: 0.5s;
-}
-
-li > a:hover {
-  color: rgb(199, 199, 199);
-  letter-spacing: 0.2;
 }
