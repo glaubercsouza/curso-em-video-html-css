@@ -1,6 +1,5 @@
 # Curso em Vídeo - HTML-CSS
 
-
 Repositório para organização de arquivos e criação de projetos relacionados ao curso.
 
 ## Desafios e Projetos do Curso
