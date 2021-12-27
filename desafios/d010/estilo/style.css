@@ -39,7 +39,7 @@ header {
   background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
   min-height: 150px;
   text-align: center;
-  padding: 40px 0px 20px 0px;
+  padding-top: 40px;
 }
 
 header > h1 {
@@ -60,7 +60,7 @@ header > p {
   padding-left: 10px;
   margin: auto;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
-  /*margin-bottom: 20px; */
+  padding-bottom: 20px; 
 }
 
 nav {
