@@ -14,6 +14,7 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * [Desafio 8 - Desafio da Navegação](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d008/index.html)
 * [Desafio 9 - Vídeos Legais para Assistir](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d009/index.html)
 * [Desafio 10 - Projeto Android](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d010/android.html)
+* [Desafio 11 - Desafio do Astronauta](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d011/index.html)
 
 ## Links Úteis
 
