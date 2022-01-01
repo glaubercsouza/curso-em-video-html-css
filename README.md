@@ -4,6 +4,8 @@ Repositório para organização de arquivos e criação de projetos relacionados
 
 ## Desafios e Projetos do Curso
 
+* <a href="https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d001/desafio-mensagens.html" target="_blank" rel="external">Desafio 1 - Desafio das Mensagens</a>
+
 * [Desafio 1 - Desafio das Mensagens](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d001/desafio-mensagens.html)
 * [Desafio 2 - Desafio das Imagens](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d002/)
 * [Desafio 3 - Desafio do Mapa](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d003/)
