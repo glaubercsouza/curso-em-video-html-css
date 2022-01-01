@@ -5,16 +5,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
 
 :root {
-  --fonte-padrao: 'Sriracha', cursive;
+  --fonte-p: Verdana, Geneva, Tahoma, sans-serif;
   --fonte-titulo: 'Passion One', cursive;
+  --fonte-cordel: 'Sriracha', cursive;
 }
 
 * {
   margin: 0px;
   padding: 0px;
+  font-size: 1em;
 }
 
 html {
+  font-family: var(--fonte-p);
   min-height: 100vh;
   background-color: darkgray;
 }
@@ -22,13 +25,14 @@ html {
 header {
   background-color: black;
   color: white;
-  font-family: var(--fonte-titulo);
   text-align: center;
 }
 
 header > h1 {
   padding-top: 50px;
   font-variant: small-caps;
+  font-family: var(--fonte-titulo);
+  font-size: 10vw;
 }
 
 header > p {
@@ -50,6 +54,8 @@ section {
   padding-bottom: 10vh;
   line-height: 2em;
   padding-left: 30px;
+  font-family: var(--fonte-cordel);
+  font-size: 3.5vw;
 }
 
 section.normal {
@@ -63,7 +69,8 @@ section.imagem {
 }
 
 section.imagem > p {
-  width: 400px;
+  display: inline-block;
+  padding: 5px;
   background-color: rgba(0, 0, 0, 0.226);
 }
 
