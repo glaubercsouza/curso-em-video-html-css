@@ -14,6 +14,11 @@
   padding: 0px;
 }
 
+html {
+  min-height: 100vh;
+  background-color: darkgray;
+}
+
 header {
   background-color: black;
   color: white;
@@ -22,22 +27,49 @@ header {
 }
 
 header > h1 {
-  padding: 50px 20px 6px 20px;
-  font-size: 2.3em;
-  text-transform: uppercase;
+  padding-top: 50px;
+  font-variant: small-caps;
 }
 
 header > p {
-  color: rgb(190, 190, 190);
   padding-bottom: 50px;
 }
 
-header > p > a {
+a {
   text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+section {
+  padding-top: 10vh;
+  padding-bottom: 10vh;
+  line-height: 2em;
+  padding-left: 30px;
+}
+
+section.normal {
+  background-color: white;
+  color: black;
+}
+
+section.imagem {
+  background-color: rgb(39, 38, 38);
   color: white;
 }
 
-header > p > a:hover {
-  color: rgb(102, 102, 102);
-  text-decoration: underline;
+section.imagem > p {
+  width: 400px;
+  background-color: rgba(0, 0, 0, 0.226);
+}
+
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  padding: 20px 10px;
 }
