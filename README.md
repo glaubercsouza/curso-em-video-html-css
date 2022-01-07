@@ -17,6 +17,7 @@ Repositório para organização de arquivos e criação de projetos relacionados
 * Desafio 11 - [Desafio do Astronauta](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d011/index.html)
 * Desafio 12 - [Cordel Moderno](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d012/index.html)
 * Desafio 13 - Expansão de Tabelas - [Parte 1](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d013/parte01.html) / [Parte 2](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d013/parte02.html)
+* Desafio 14 - [Tabela de Notas Escolares](https://glaubercsouza.github.io/curso-em-video-html-css/desafios/d014/index.html)
 
 ## Links Úteis
 
